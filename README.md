@@ -1,7 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
 </div>
-
+<h1>
+  Hello! My name is Artem
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 <!--
 **ARTALEAL/artaleal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
