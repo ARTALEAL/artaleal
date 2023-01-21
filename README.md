@@ -12,17 +12,15 @@
 <h2>
 👨‍💻: About Me : 
   </h2>
-  <p>I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
+    <p>I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
   <ul>
-  <li>In development since 2022</li>
-  <li>At the moment I am studying the profession of a frontend developer at Yandex Practicum</li>
-  <li>In my free time I supplement my knowledge with additional courses</li>
-  <li>Practice writing code and solving exercises on CodeWars</li>
+    <li>In development since 2022</li>
+    <li>At the moment I am studying the profession of a frontend developer at Yandex Practicum</li>
+    <li>In my free time I supplement my knowledge with additional courses</li>
+    <li>Practice writing code and solving exercises on CodeWars</li>
   </ul>
-  </div>
-  <div align="center" border="1px solid grey">
-  <p><b>230+</b> tasks are completed on CodeWars - I do convince you that's not the end 😜</p>
-  </div>
+    </div>
+    <p align="center"><b>230+</b> tasks are completed on CodeWars - I do convince you that's not the end 😜</p>
   <div align="center"><a href="https://www.codewars.com/users/artaleal"><img src="https://www.codewars.com/users/ARTALEAL/badges/large"></a></div>
 
 <!--
