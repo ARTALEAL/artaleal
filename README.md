@@ -8,7 +8,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
+<div>
 <h2>
 👨‍💻: About Me : 
   </h2>
@@ -19,6 +19,7 @@
   <li>In my free time I supplement my knowledge with additional courses</li>
   <li>Practice writing code and solving exercises on CodeWars</li>
   </ul>
+  </div>
   <p align="center"><b>230+</b> tasks are completed on CodeWars - I do convince you that's not the end 😜</p>
 
 <!--
