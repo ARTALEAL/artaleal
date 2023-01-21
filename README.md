@@ -45,7 +45,7 @@
   
 </div>
 <hr>
-<h2 align="center">Will be in touch</h2>
+<h2 align="center"><b>Will be in touch</b></h2>
 <!--
 **ARTALEAL/artaleal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
