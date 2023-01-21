@@ -20,7 +20,7 @@
   <li>Practice writing code and solving exercises on CodeWars</li>
   </ul>
   </div>
-  <div align="center">
+  <div align="center" border="1px solid grey">
   <p><b>230+</b> tasks are completed on CodeWars - I do convince you that's not the end 😜</p>
   </div>
   <div align="center"><a href="https://www.codewars.com/users/artaleal"><img src="https://www.codewars.com/users/ARTALEAL/badges/large"></a></div>
