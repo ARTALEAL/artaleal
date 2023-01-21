@@ -21,7 +21,7 @@
   </ul>
     </div>
     <p align="center"><b>230+</b> tasks are completed on CodeWars - I do convince you that's not the end 😜</p>
-  <div align="center"><a href="https://www.codewars.com/users/artaleal"><img src="https://www.codewars.com/users/ARTALEAL/badges/large"></a></div>
+  <div align="center"><a href="https://www.codewars.com/users/ARTALEAL"><img src="https://www.codewars.com/users/ARTALEAL/badges/large"></a></div>
 
 <!--
 **ARTALEAL/artaleal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
