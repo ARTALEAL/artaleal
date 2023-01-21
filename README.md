@@ -38,7 +38,9 @@
 </div>
 <hr>
 <div align="center">
+  
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ARTALEAL&theme=dark)](https://git.io/streak-stats)
+  
 </div>
 <!--
 **ARTALEAL/artaleal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
