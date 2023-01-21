@@ -19,6 +19,7 @@
   <li>In my free time I supplement my knowledge with additional courses</li>
   <li>Practice writing code and solving exercises on CodeWars</li>
   </ul>
+  <p align="center"><b>230+</b> tasks are completed on CodeWars - I do convince you that's not the end 😜</p>
 
 <!--
 **ARTALEAL/artaleal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
