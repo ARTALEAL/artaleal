@@ -46,6 +46,7 @@
 </div>
 <hr>
 <h2 align="center"><b>Will be in touch 🙂</b></h2>
+<hr>
 <!--
 **ARTALEAL/artaleal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
