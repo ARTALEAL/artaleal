@@ -47,7 +47,7 @@
 <hr>
 <p align="center"><b>Will be in touch 🙂</b></p>
 <div align="center">
-  <a href="https://t.me/artaleal">
+  <a href="https://t.me/artaleal" target="_blanc">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge">
   </a>
 </div>
