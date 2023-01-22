@@ -46,6 +46,9 @@
 </div>
 <hr>
 <p align="center"><b>Will be in touch 🙂</b></p>
+<a href="https://t.me/artaleal">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" aligh="center">
+  </a>
 <!--
 **ARTALEAL/artaleal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
