@@ -21,7 +21,7 @@
   </ul>
     </div>
  <hr>
-    <p align="center"><b>230+</b> tasks are completed on CodeWars - I do convince you that's not the end 😜</p>
+    <p align="center"><b>300+</b> tasks are completed on CodeWars - I do convince you that's not the end 😜</p>
   <div align="center"><a href="https://www.codewars.com/users/ARTALEAL"><img src="https://www.codewars.com/users/ARTALEAL/badges/large"></a></div>
 <hr>
 <div align="center">
