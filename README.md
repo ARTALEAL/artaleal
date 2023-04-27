@@ -15,7 +15,7 @@
     <p>I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
   <ul>
     <li>In development since 2022</li>
-    <li>At the moment I am studying the profession of a Frontend Developer at Yandex Practicum</li>
+    <li>Completed the Frontend Developer course at Yandex Practicum</li>
     <li>In my free time I supplement my knowledge with additional courses</li>
     <li>Practice writing code and solving exercises on CodeWars</li>
   </ul>
