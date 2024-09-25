@@ -15,8 +15,11 @@
     <p>I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
   <ul>
     <li>In development since 2022</li>
+    <li>Currently I work as a software engineer with a focus on frontend in an international company</li>
     <li>Completed the Frontend Developer course at Yandex Practicum</li>
-    <li>In my free time I supplement my knowledge with additional courses</li>
+    <li>Completed the Frontend Developer course at HTML-Academy</li>
+    <li>Completed the FullStack Developer course at Hexlet</li>
+    <li>In my free time I supplement my knowledge with additional courses (I like it)</li>
     <li>Practice writing code and solving exercises on CodeWars</li>
   </ul>
     </div>
