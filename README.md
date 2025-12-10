@@ -12,21 +12,20 @@
 <h2>
 👨‍💻: About Me : 
   </h2>
-    <p>I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
+    <p>I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
   <ul>
-    <li>In development since 2022</li>
     <li>Currently I work as a software engineer with a focus on frontend in an international company</li>
     <li>Completed the Frontend Developer course at Yandex Practicum</li>
+    <li>Completed the Javascript Developer course at LearnJS</li>
     <li>Completed the Frontend Developer course at HTML-Academy</li>
     <li>Completed the FullStack Developer course at Hexlet</li>
-    <li>In my free time I supplement my knowledge with additional courses (I like it)</li>
-    <li>Practice writing code and solving exercises on CodeWars</li>
+    <li>In my free time I supplement my knowledge with additional courses and docs (I like it)</li>
   </ul>
     </div>
  <hr>
-    <p align="center"><b>200+</b> tasks are completed on CodeWars - I do convince you that's not the end 😜</p>
+    <!-- <p align="center"><b>200+</b> tasks are completed on CodeWars - I do convince you that's not the end 😜</p>
   <div align="center"><a href="https://www.codewars.com/users/ARTALEAL"><img src="https://www.codewars.com/users/ARTALEAL/badges/large"></a></div>
-<hr>
+<hr> -->
 <div align="center">
   <h2 align="center">My stack</h2>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="50">
