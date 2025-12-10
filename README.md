@@ -23,9 +23,9 @@
   </ul>
     </div>
  <hr>
-    <!-- <p align="center"><b>200+</b> tasks are completed on CodeWars - I do convince you that's not the end 😜</p>
+    <p align="center"><b>200+</b> tasks are completed on CodeWars</p>
   <div align="center"><a href="https://www.codewars.com/users/ARTALEAL"><img src="https://www.codewars.com/users/ARTALEAL/badges/large"></a></div>
-<hr> -->
+<hr>
 <div align="center">
   <h2 align="center">My stack</h2>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="50">
