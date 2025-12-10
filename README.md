@@ -12,7 +12,7 @@
 <h2>
 👨‍💻: About Me : 
   </h2>
-    <p>I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
+    <p>I am a JS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
   <ul>
     <li>Currently I work as a software engineer with a focus on frontend in an international company</li>
     <li>Completed the Frontend Developer course at Yandex Practicum</li>
