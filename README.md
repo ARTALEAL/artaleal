@@ -15,10 +15,10 @@
     <p>I am a JS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
   <ul>
     <li>Currently I work as a software engineer with a focus on frontend in an international company</li>
-    <li>Completed the Frontend Developer course at Yandex Practicum</li>
+    <!-- <li>Completed the Frontend Developer course at Yandex Practicum</li>
     <li>Completed the Javascript Developer course at LearnJS</li>
     <li>Completed the Frontend Developer course at HTML-Academy</li>
-    <li>Completed the FullStack Developer course at Hexlet</li>
+    <li>Completed the FullStack Developer course at Hexlet</li> -->
     <li>In my free time I supplement my knowledge with additional courses and docs (I like it)</li>
   </ul>
     </div>
