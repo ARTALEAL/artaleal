@@ -42,6 +42,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" width="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg" width="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="50">
 </div>
 <hr>
 <div align="center">
