@@ -46,7 +46,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" width="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" width="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="50">
 </div>
 <hr>
 <div align="center">
