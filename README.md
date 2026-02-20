@@ -15,6 +15,7 @@
     <p>I am a JS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
   <ul>
     <li>Currently I work as a software engineer with a focus on frontend in an international company</li>
+    <li>I fell in love with Next.js within two lines</li>
     <!-- <li>Completed the Frontend Developer course at Yandex Practicum</li>
     <li>Completed the Javascript Developer course at LearnJS</li>
     <li>Completed the Frontend Developer course at HTML-Academy</li>
@@ -44,6 +45,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" width="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" width="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" width="50">
 </div>
 <hr>
